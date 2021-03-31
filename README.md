@@ -15,13 +15,13 @@ start typing words and it will show the predictions as you type. To exit the pro
 In the project is also are unit tests that determines if words correctly stored in the tree and can be found.
 You can run the unit tests by going through the first 5 steps, then using the command ```./UnitTestRunner```.
 
-[Steps 1-3](/images/steps1-3.png)
-[Step 4](/images/step4.png)
-[Step 5](/images/step5.png)
-[Step 6](/images/step6.png)
-[Running 1](/images/running1.png)
-[Running 2](/images/running2.png)
-[Running 3](/images/running3.png)
-[Unit Tests](/images/altStep6.png)
-[Running Unit Tests](/images/unitTests.png)
+![Steps 1-3](images/steps1-3.png)
+![Step 4](images/step4.png)
+![Step 5](images/step5.png)
+![Step 6](images/step6.png)
+![Running 1](images/running1.png)
+![Running 2](images/running2.png)
+![Running 3](images/running3.png)
+![Unit Tests](images/altStep6.png)
+![Running Unit Tests](images/unitTests.png)
 
